@@ -1,0 +1,7 @@
+http://yourstreamurl.com
+
+#EXTINF:-1 tvg-id="Sports1" tvg-name="Live Sports" tvg-logo="https://githubusercontent.com" group-title="Sports Channels",Live Sports
+http://yourstreamurl.com
+
+#EXTINF:-1 tvg-id="Movie1" tvg-name="Action Movie" tvg-logo="https://githubusercontent.com" group-title="Movies",Action Movie 24/7
+http://yourstreamurl.com
