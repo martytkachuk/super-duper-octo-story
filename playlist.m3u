@@ -1,6 +1,6 @@
 #EXTINF:-1,Channel BBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-http://example.comhttp://yourstreamurl.com
+http://actual-bbc-stream-url.com/stream
 
 #EXTINF:-1 tvg-id="Sports1" tvg-name="Live Sports" tvg-logo="https://githubusercontent.com" group-title="Sports Channels",Live Sports
 http://yourstreamurl.com
